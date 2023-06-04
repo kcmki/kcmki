@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kcmki
-- 👀 I’m interested in new tech 
-- 🌱 I’m currently learning React, Bun, Next.js and looking forward to learn typescript, TRPC and T3
+- 👀 I’m interested in all kind of new tech 
+- 🌱 I’m currently learning Next.js and looking forward to learn typescript, TRPC and T3
 
 
 <!---
