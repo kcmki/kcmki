@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_mekkj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_mekkj" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/belaissaoui mohamed elmekki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="belaissaoui mohamed elmekki" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohamed-elmekki-belaissaoui-746a411bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="belaissaoui mohamed elmekki" height="30" width="40" /></a>
 <a href="https://discord.gg/kcmki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kcmki" height="30" width="40" /></a>
 </p>
 
