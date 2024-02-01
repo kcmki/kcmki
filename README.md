@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mki</h1>
 <h3 align="center">A developer from Algeria licence degree in software dev and currently finishing my master degree in AI</h3>
 
-- 🔭 I’m currently working on [SwordMaker](https://github.com/kcmki/SwordMaker)
+- 🔭 I’m currently learning how to use Langchain
 
 - 🤝 I’m looking for help with **Deep learning, LLms and Diffusion models**
 
