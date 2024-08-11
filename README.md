@@ -3,7 +3,7 @@
 
 - 🤝 I’m looking for help with **Deep learning, LLms and Diffusion models**
 
-- 📫 How to reach me **discord `kcmki` or twitter `@_mekkj`**
+- 📫 How to reach me **discord `kcmki`
 
 - 📄 Know about my experiences internship at Djezzy OTA
 
