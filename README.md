@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Elmekki Belaissaoui</h1>
-<h3 align="center">A Python Developer and AI Enthusiast from Algeria</h3>
+<h3 align="center">A Python Developer and AI Enthusiast in Paris</h3>
 
 - 🎓 **Master’s Degree in Artificial Intelligence**:  
   Successfully completed my Master’s degree, specializing in AI with expertise in Natural Language Processing (NLP), Machine Learning, and Deep Learning.
